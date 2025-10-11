@@ -2,9 +2,11 @@
 
 ![hi, there](https://media.giphy.com/media/6pUBXVTai18Iw/giphy.gif)
 
-I work on the Web with WordPress, React, Gatsby and NextJS. I ❤️  coding and tech conferences.
+I build web products using WordPress, React, and Astro. I enjoy creating clean, fast, and human-centered digital experiences.
 
-Co-founder of the WordPress Costa Rica Community, Founder of the Gatsby Latinamerica Community, Organizer, Speaker, Attendee, and Volunteer of camps & meetups in several cities such as Rome, Miami, Nashville, Managua, CDMX and San Jose, Costa Rica.
+I’m a Senior Frontend Engineer [at @webdevstudios](https://www.webdevstudios.com) and co-run [ElPuas Digital Crafts](https://elpuasdigitalcrafts.com), a small studio I founded with my wife Catalina, focused on building and maintaining WordPress sites for clients who care about performance, design, and reliability.
 
-- 🔭 I’m currently working as a Senior Frontend Engineer at [@webdevstudios](https://webdevstudios.com)
-- 📫 How to reach me: [elpuas.com](https://elpuas.com)
+Co-founder of the WordPress Costa Rica Community and founder of the Gatsby Latinamerica Community. Organizer, speaker, and long-time supporter of WordCamps and meetups across Rome, Miami, Nashville, Managua, CDMX, and San José, Costa Rica.
+
+🛠 Currently working on custom WordPress plugins, block themes, and AI-assisted workflows.
+🌎 Sharing projects and thoughts at [elpuas.com](https://elpuas.com)
